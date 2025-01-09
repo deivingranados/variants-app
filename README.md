@@ -9,6 +9,9 @@ Este es un proyecto de React que genera variantes aleatorias de un cuadro y un b
 - Estilos responsivos para adaptarse a diferentes tamaños de pantalla.
 - Flexbox utilizado para la disposición y alineación.
 
+## Estructura
+La estructura es atom que  facilita comprender la organización de sus archivos y asegura  componentes reutizables de una manera mas global.
+
 ## Tecnologías
 
 - **React**: Librería de JavaScript para construir interfaces de usuario.
